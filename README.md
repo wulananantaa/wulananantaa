@@ -14,7 +14,7 @@ Tools : Power BI, Tableau, Google Sheets, VS Code, Google Colab
 
 🌱 I’m currently learning Data visualization best practices using Power BI & Tableau
 
-Thanks to stpping by!
+Thanks to stopping by!
 
 **wulananantaa/wulananantaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
