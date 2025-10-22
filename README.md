@@ -5,8 +5,11 @@ I'm passionate about Big Data, Data Analysis, and Data Science — exploring ins
 💻 Tech Stack
 
 Languages : Python, SQL
+
 Libraries : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 Database : MySQL, PostgreSQL
+
 Tools : Power BI, Tableau, Google Sheets, VS Code, Google Colab
 
 🌱 I’m currently learning Data visualization best practices using Power BI & Tableau
