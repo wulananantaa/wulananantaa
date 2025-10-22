@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi i'm wulan, welcome to my github profile 👋
 
-<!--
+I'm passionate about Big Data, Data Analysis, and Data Science — exploring insights, building visualization, building models with Machine Learning, and turning data into impactful stories.
+
 **wulananantaa/wulananantaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
