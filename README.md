@@ -2,16 +2,16 @@
 
 I'm passionate about Big Data, Data Analysis, and Data Science — exploring insights, building visualization, building models with Machine Learning, and turning data into impactful stories.
 
+💻 Tech Stack
+
+Languages : Python, SQL
+Libraries : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Database : MySQL, PostgreSQL
+Tools : Power BI, Tableau, Google Sheets, VS Code, Google Colab
+
+🌱 I’m currently learning Data visualization best practices using Power BI & Tableau
+
+Thanks to stpping by!
+
 **wulananantaa/wulananantaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
