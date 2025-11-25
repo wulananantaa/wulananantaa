@@ -10,9 +10,9 @@ Libraries : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Database : MySQL, PostgreSQL
 
-Tools : Power BI, Tableau, Google Sheets, VS Code, Google Colab
+Tools : GBQuery, Power BI, Looker Studio, Google Sheets, VS Code, Google Colab
 
-🌱 I’m currently learning Data visualization best practices using Power BI & Tableau
+🌱 I’m currently learning Data visualization best practices using Power BI, Looker Studio, & GBQuery.
 
 
 Thanks to stopping by!
